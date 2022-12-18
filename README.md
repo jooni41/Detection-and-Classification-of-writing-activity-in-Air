@@ -1,4 +1,8 @@
 # Detection-and-Classification-of-Writing-Activity-in-Air
+
+DataSet contains two subfolders DataSet_1 and DataSet_2:
+
+
 DataSet_1 :
  
        This folder consist of 2 subfolders Train_Set and Test_set
