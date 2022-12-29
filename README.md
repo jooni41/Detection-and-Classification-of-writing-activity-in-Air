@@ -4,7 +4,7 @@ DataSet folder contains two subfolders DataSet_1 and DataSet_2 each for the spec
 
 TASK-1:
 CASSIFICATION OF WRITING IN AIR
-Aim of this task is to map airiwritten trajectories onto respective digits(0-9) and characters (A-Z and a-z).
+Aim of this task is to map air-written trajectories onto respective digits(0-9) and characters (A-Z and a-z).
 
 Data provided for this task is presented in Dataset_1 folders and details of data are given below:
  
@@ -24,6 +24,6 @@ Data provided for this task is presented in Dataset_2 folders and details of dat
 		                  Contains 38 participants and each participants data is stored in separated folder id and that folder contains the (X,Y)Co-Ordinates calculated or extracted using raw sensor data in Not_writing_sequence_start - writing_sequence - Not_writing_sequence_end 
 				  
 		     1b). Sensor : 
-		                  Contains 38 participants and each participants data is stored in separated folder id and that folder contains the  slected raw feature data taken from raw sensor data in Not_writing_sequence_start - writing_sequence - Not_writing_sequence_end along with respective image as well.
+		                  Contains 38 participants and each participants data is stored in separated folder id and that folder contains the selected raw feature data taken from raw sensor data in Not_writing_sequence_start - writing_sequence - Not_writing_sequence_end along with respective image as well.
 				  
 	   
