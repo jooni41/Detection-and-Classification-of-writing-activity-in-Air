@@ -1,4 +1,4 @@
-# ICDAR2023 Competition on Detection & Classification of Writing Activity in Air
+# ICDAR2023 Competition on Detection & Classification of Writing in Air
 
 DataSet folder contains two subfolders DataSet_1 and DataSet_2 each for the specific task mentioned in the dataset.
 
