@@ -3,7 +3,7 @@
 DataSet folder contains two subfolders DataSet_1 and DataSet_2 each for the specific task mentioned in the dataset.
 
 TASK-1:
-CASSIFICATION OF WRITING ACTVITIY IN AIR
+CASSIFICATION OF WRITING IN AIR
 Aim of this task is to map airiwritten trajectories onto respective digits(0-9) and characters (A-Z and a-z).
 
 Data provided for this task is presented in Dataset_1 folders and details of data are given below:
@@ -15,7 +15,7 @@ Data provided for this task is presented in Dataset_1 folders and details of dat
 		                  Contains the data from same number of participants. The data is directly collected from IMU sensor and is each sensor data file is presented with its trajectory recontruction.
 				  
 TASK-2
-Aim of this task is to segment the writing activity from other gestures performed in air as binary classification task.
+Aim of this task is to segment the writing from other gestures performed in air as binary classification task.
   
 Data provided for this task is presented in Dataset_2 folders and details of data are given below:
 
