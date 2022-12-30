@@ -26,4 +26,8 @@ Data provided for this task is presented in Dataset_2 folders and details of dat
 		     1b). Sensor : 
 		                  Contains 38 participants and each participants data is stored in separated folder id and that folder contains the selected raw feature data taken from raw sensor data in Not_writing_sequence_start - writing_sequence - Not_writing_sequence_end along with respective image as well.
 				  
-	   
+Evaluation Metrics:
+ Accuracy, Precision, and Recall 
+WE ARE LOOKING FORWARD TO....
+(1). An executable program of complete pipeline from data preprocessing to result generation, requiring only path to input data (source files) and to store the output results (destination)  
+(2). One page expaliantion of your system implementation and methodology
