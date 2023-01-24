@@ -29,6 +29,7 @@ Data provided for this task is presented in Dataset_2 folders and details of dat
 Evaluation Metrics:
  Accuracy, Precision, and Recall 
 WE ARE LOOKING FORWARD TO....
+
 (1). An executable program of complete pipeline from data preprocessing to result generation, requiring only path to input data (source files) and to store the output results (destination)  
 (2). One page expaliantion of your system implementation and methodology.
 
