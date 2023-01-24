@@ -32,6 +32,6 @@ Evaluation Metrics:
 WE ARE LOOKING FORWARD TO....
 
 (1). An executable program of complete pipeline from data preprocessing to result generation, requiring only path to input data (source files) and to store the output results (destination)  
-(2). One page expaliantion of your system implementation and methodology.
+(2). One page explaination of your system implementation and methodology.
 
 For Queries , please write us an email on junaid.younas@dfki.de
